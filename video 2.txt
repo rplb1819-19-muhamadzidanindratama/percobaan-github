@@ -1,0 +1,35 @@
+rplb1819-19-muhamadzidanindratama
+
+Cara menggunakan github
+- daftar terlebih dahulu
+- buat nama repo, contohnya seperti project-pkl
+- buat deskripsi repo yang barusan dibuat
+- pilih antara public dan private
+- klik button create
+
+di dalam repo bisa menyimpan banyak folder dan file 
+
+kalian bisa menyimpan file apa aja, seperti html, css, js, php, dan lain-lain
+
+Cara buat file di github
+- klik add file
+- klik create new file
+- buat nama file berserta extensinya
+- ketik apa yang mau ditulis dalam file tersebut
+- isi form commit
+- klik button commit new file
+
+Cara mengedit file yang ada di github
+- klik file yang mau diedit
+- klik icon pensil
+- ketik apa yang mau diedit dalam file tersebut
+- isi form commit changes
+- klik button commit changes
+
+Cara liat perubahan yang terjadi pada file
+- klik file yang mau dilihat
+- klik tombol history
+
+Cara liat perubahan secara visual
+- klik insights
+- pilih network
