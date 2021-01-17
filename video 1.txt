@@ -1,0 +1,41 @@
+git dan  github merupakan dua hal yang berbeda
+
+bisa menggunakan github tanpa git dan bisa menggunakan github tanpa git
+
+bisa dipakai dua-duanya secara bersamaan
+
+git = version control system
+version control system adalah sistem yang mengelola perubahan dari sebuah dokumen, program komputer, website dan kumpulan informasi lain
+
+vcs
+- sebuah sistem yang menyimpan 'rekaman atau snapshot perubahan pada source code
+- meungkinkan berkerja berkolaborasi dengan baik
+- mengetahui siapa yang melakukan dan kapan perubahan terjadi
+- memungkinkan kita untuk kembali ke sebelum perubahan (checkout)
+- memamerkan project
+
+-macam-macam vcs
+- subversion
+- mercurial
+- cvs
+
+git 
+git adalah sebuah vcs terdistribusi untuk mengelola file di dalam folder
+
+github
+github adalah layanan cloud untuk menyimpan dan mengelola project atau repo git
+
+git menyimpan riwayat prubahan file disimpan menggunakan serangkaian commit
+
+istilah git
+- repo = folder project kita
+- commit = rekaman atau snapshot dari repo kita
+- hash = penanda unik pada commit
+- checkout berpindah ke sebuah commit
+- branch = cabang bebas dari sebuah commit
+ -merge = menggabungkan branch
+- remote = sumber yang memiliki repo 
+- clone = mengambil repo dari remote
+- push = mengirimkan commit ke repo
+- pull = mengambil commit dari repo
+
