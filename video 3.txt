@@ -19,38 +19,7 @@ Cara buat file di github
 - isi form commit
 - klik button commit new file
 
-Cara masukin branch ke main-branch
-- klik compare and pull request
-- ketik pesan yang mau dikirim
-- klik tombol create pull request
-
-Cara konfirmasi pull request
-- pilih pull request
-- klik satu request
-- klik merge pull request
-
-Jika pull request terjadi conflict, maka owner repo harus resolve masalah tersebutDalam satu repo bisa membuat beberapa branch
-
-branching
-- membuat git branch
-- membuat snapshot tanpa menggangu jalur utama (master-branch)
-- fitur experimental
-- 2 orang yang menegerjakan repo yang sama
-
-Cara membuat branch di github
-- klik main
-- lalu ketik nama branch yang mau dibuat
-- klik create branch
-
-Cara buat file di github
-- klik add file
-- klik create new file
-- buat nama file berserta extensinya
-- ketik apa yang mau ditulis dalam file tersebut
-- isi form commit
-- klik button commit new file
-
-Cara masukin branch ke main-branch
+Cara masukin branch ke main-branch (merge)
 - klik compare and pull request
 - ketik pesan yang mau dikirim
 - klik tombol create pull request
@@ -61,3 +30,10 @@ Cara konfirmasi pull request
 - klik merge pull request
 
 Jika pull request terjadi conflict, maka owner repo harus resolve masalah tersebut
+
+istilah
+- branch = jalur 'develpment' bebas dari sebuah commit
+- checkout = berpindah ke branch atau commit yang lain
+- pull request = meminta pemilik repo untuk 'mengambil' perubahan yang telah dilakukan
+- merge = menggabungkan 2 buah branch
+- merge conflict = baris yang sama diubah oleh 2 branch yang berbeda
