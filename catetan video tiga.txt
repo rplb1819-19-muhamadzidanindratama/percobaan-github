@@ -18,3 +18,13 @@ Cara buat file di github
 - ketik apa yang mau ditulis dalam file tersebut
 - isi form commit
 - klik button commit new file
+
+Cara masukin branch ke main-branch
+- klik compare and pull request
+- ketik pesan yang mau dikirim
+- klik tombol create pull request
+
+Cara konfirmasi pull request
+- pilih pull request
+- klik satu request
+- klik merge pull request
