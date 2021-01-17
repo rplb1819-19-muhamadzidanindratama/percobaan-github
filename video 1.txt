@@ -38,5 +38,3 @@ istilah git
 - clone = mengambil repo dari remote
 - push = mengirimkan commit ke repo
 - pull = mengambil commit dari repo
-
-ada ilham dan ada kurniawan
