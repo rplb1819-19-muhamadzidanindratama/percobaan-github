@@ -1,5 +1,8 @@
 - mau mandi
+  # mau cuci baju
+  # mau bersihin kolam ikan
 - mau makan
 - mau ngoding
+  # mau latihan ngoding buat ukom
 - mau main game
 - mau tidur
