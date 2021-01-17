@@ -4,6 +4,7 @@
   # mau cuci motor
 - mau makan
 - mau ngoding
+  # ngoding buat project portofolio
   # mau latihan ngoding buat ukom
 - mau main game
   # mau main cyberpunk
