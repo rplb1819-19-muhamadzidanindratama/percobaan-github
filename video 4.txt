@@ -1,0 +1,12 @@
+forking atau forking
+- membuat 'copy atau duplikat' dari repo orang lain (beserta history-nya)
+- jembatan anatara repo original dan duplikatnya
+- modifikasi terhadap repo original
+- berkontribusi pada repo orang lain
+- fork != clone
+
+Cara forking
+- klik tombol fork yang ada di kanan atas
+- nanti repo tersebut akan terduplikat ke akun github kita
+
+Cara pull request sama seperti tadi, tinggal menunggu requestnya diterima atau tidak
