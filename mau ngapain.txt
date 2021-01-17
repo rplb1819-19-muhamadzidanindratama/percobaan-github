@@ -1,5 +1,8 @@
 - mau mandi
+  # mau cuci baju
+  # mau cuci motor
 - mau makan
 - mau ngoding
 - mau main game
+  # mau main cyberpunk
 - mau tidur
